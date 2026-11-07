@@ -2,7 +2,7 @@
 
 I build full-stack apps and local AI tools, mostly in TypeScript and Python. I like projects that run end to end: database, backend, UI, payments and the deploy pipeline, not just a demo screen.
 
-Right now I'm building under [UNMATRIX](https://unmatrix.in).
+Second-year B.Tech CSE (AI & ML) student at JSPM, Pune. Portfolio: [aviraj-patil.vercel.app](https://aviraj-patil.vercel.app). Right now I'm building under [UNMATRIX](https://unmatrix.in).
 
 ### Projects
 
